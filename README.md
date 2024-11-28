@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with python + javascript + sql
 - 🌱 Learning javascript
-- ⚡ Fun fact: lost access to my previous GitHub account because it was linked to my former work email. F.
+- ⚡ Fun fact: My GitHub account fell victim to corporate email limbo. F.
 
 -->
 
