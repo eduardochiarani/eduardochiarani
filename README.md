@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with python + javascript + sql
 - 🌱 Learning javascript
-- ⚡ Fun fact: My GitHub account fell victim to corporate email limbo. F.
+- ⚡ Fun fact: My previous GitHub account fell victim to corporate email limbo. F.
 
 -->
 
