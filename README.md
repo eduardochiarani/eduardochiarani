@@ -1,7 +1,7 @@
 ### Hi there, Eduardo here 👋🔭🌱⚡
 
-- developer (python, sql, javascript, etc)
-- currently working with python + machine/deep learning + transformes
+- developer (python, sql, javascript)
+- currently working with python + machine/deep learning + transformers
 - studying javascript, machine/deep learning, transformers
 - my previous GitHub account fell victim to corporate email limbo. F.
 
