@@ -5,7 +5,7 @@
 - studying javascript, machine/deep learning, transformers
 - my previous GitHub account fell victim to corporate email limbo. F.
 
--->
+---
 
 ##
 <div>
