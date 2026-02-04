@@ -1,9 +1,9 @@
-### Hi there, Eduardo here 👋🔭🌱⚡
+### Eduardo here 👋🔭🌱⚡
 
-- developer (python, sql, javascript)
-- currently working with python + machine/deep learning + transformers
-- studying javascript, machine/deep learning, transformers
-- my previous GitHub account fell victim to corporate email limbo. F.
+- developer (python)
+- currently working with python classical and generative AI
+- studying javascript, deep learning, transformers
+- my previous account fell victim to corporate email limbo. Now I have this one and another corporate account...
 
 ##
 <div>
